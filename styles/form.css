@@ -1,0 +1,35 @@
+.form-timebar{
+    display: flex;
+    justify-content: center;
+}
+
+.form-timebar--icon{
+    background-color: var(--cinza);
+    height: 10px;
+    margin-right: 10px;
+}
+
+.form-timebar--icon1{
+    width: 20px;
+    margin-left: 10px;
+}
+
+.form-timebar--icon2{
+    width: 40px;
+}
+
+.form-timebar--icon3{
+    width: 60px;
+}
+
+.form-timebar--icon4{
+    width: 80px;
+}
+
+.form-timebar--icon5{
+    width: 120px;
+}
+
+.form-timebar--icon6{
+    width: 240px;
+}

@@ -1,0 +1,11 @@
+.tentativas{
+    text-align: center;
+    margin-bottom: 70%;
+}
+
+.tentativas--nome{
+    display: inline-block;
+    width: 75%;
+    height: 2rem;
+    background-color: var(--cinza);
+}
